@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller (збірка; .exe лежить у Releases)
+build/
+dist/
+*.spec
+
+# База даних створюється автоматично при запуску
+college.db
